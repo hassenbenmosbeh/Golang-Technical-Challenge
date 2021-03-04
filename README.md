@@ -10,7 +10,7 @@ version used to test the code is **1.15.3**.
 $ git clone  https://github.com/hassenbenmosbeh/Golang-Technical-Challenge.git
 ```
 
-- `cd` into the project directory 
+- `cd` into the project directory Golang-Technical-Challenge
 
 - compile and execute the code
 $ go build
